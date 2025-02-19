@@ -1,5 +1,7 @@
 # My Cascade - AI Coding Assistant for VSCode
 
+* **IMPORTANT**: Now this repository is fully written by AI! I'll update this project, but now it provide very limited features. (still no marketplace!)
+
 My Cascade is a powerful AI-powered coding assistant VSCode extension that leverages Google's Gemini Pro and OpenAI's GPT models to assist with code writing, analysis, and refactoring.
 
 ## Key Features
